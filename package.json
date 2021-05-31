@@ -1,7 +1,7 @@
 {
-  "name": "YOURAPPNAME",
+  "name": "telcel",
   "private": true,
-  "license": "UNLICENSED",
+  "license": "KD",
   "scripts": {
     "lint": "eslint --ext js,jsx,ts,tsx .",
     "format": "prettier --write \"**/*.{ts,tsx,js,jsx,json}\""
